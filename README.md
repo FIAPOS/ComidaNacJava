@@ -33,7 +33,7 @@ Clone o repositório em sua máquina
 
 ```git clone https://github.com/FIAPOS/ComidaNacJava```
 
-### Já com o projeto aberto, adicione um novo server, recomendavel apache Tomcat v9.0
+### Já com o projeto aberto, adicione um novo server, recomendável apache Tomcat v9.0
 <img src="https://github.com/FIAPOS/ComidaNacJava/blob/master/Imagens/6.png" width="300px">
 
 ### Istale as dependências com o Maven (aqui serão instaladas o Spring MVC, Hibernate e JSTL)
@@ -45,5 +45,5 @@ Clone o repositório em sua máquina
 ### Dê Start no server
 <img src="https://github.com/FIAPOS/ComidaNacJava/blob/master/Imagens/10.png" width="300px">
           
-### Acesse no navegador o link localhost (Recomendavel o Chrome)
+### Acesse no navegador o link localhost (Recomendável o Chrome)
 ```http://localhost:8080/comida-mvc/comida```
